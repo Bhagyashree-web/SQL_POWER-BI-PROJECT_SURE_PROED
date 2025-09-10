@@ -16,7 +16,7 @@ These projects were designed to provide hands-on experience  in working with **S
   * Interactive filters & drill-downs
   * Tech Stack:** Power BI (DAX, Data Modeling, Visualization)
   * Screenshot: <img width="1440" height="808" alt="Screenshot 2025-07-26 211917" src="https://github.com/user-attachments/assets/366cd9e9-ccce-453f-8366-61bc1606bc7c" />
-  * GitHub Folder:
+  * GitHub Folder:https://github.com/Bhagyashree-web/SQL_POWER-BI-PROJECT_SURE_PROED/tree/main/Energy-Consumption-Dashboard
 
 ---
  2️⃣ Mobile Sales Dashboard (SQL + Power BI)
@@ -31,7 +31,7 @@ These projects were designed to provide hands-on experience  in working with **S
   * Tech Stack:** SQL, Power BI
   * Screenshot: <img width="1445" height="809" alt="Screenshot 2025-07-26 212845" src="https://github.com/user-attachments/assets/8a79b056-fe9f-46b9-b717-95e3a0c9086d" />
 
-  * GitHub Folder:** `/Mobile-Sales-Dashboard`
+  * GitHub Folder: https://github.com/Bhagyashree-web/SQL_POWER-BI-PROJECT_SURE_PROED/tree/main/Mobile-Sales-Dashboard
 
 ---
 
@@ -46,7 +46,7 @@ These projects were designed to provide hands-on experience  in working with **S
   * Reports for borrowed/returned books
   * Tech Stack: SQL (MySQL / PostgreSQL)
   * Screenshot: <img width="635" height="623" alt="Schema" src="https://github.com/user-attachments/assets/b5f2c35f-42c7-452a-ad69-24d4b1505f80" />
-  * GitHub Folder:`/Library-Management-System`
+  * GitHub Folder: https://github.com/Bhagyashree-web/SQL_POWER-BI-PROJECT_SURE_PROED/tree/main/Library%20Management%20System
 
 ---
 
