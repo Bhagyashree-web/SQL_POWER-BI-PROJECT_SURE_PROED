@@ -61,6 +61,9 @@ These projects were designed to provide hands-on experience  in working with **S
 ```
 
 ---
+**PROJECT LINK**:- https://github.com/Bhagyashree-web/SQL_POWER-BI-PROJECT_SURE_PROED?tab=readme-ov-file
+
+---
 
 ## 🎯 Learning Outcomes
 
